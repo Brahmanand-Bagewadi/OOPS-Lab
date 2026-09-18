@@ -30,3 +30,11 @@ int main()
 
     return 0;
 }
+
+/* 
+Input
+Enter first number: 10
+Enter second number: 20
+
+Output
+Sum = 30  */
