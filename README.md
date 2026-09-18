@@ -88,9 +88,9 @@ implementing the following Object Oriented Programming concepts using C++.
 - Exceptions with arguments
 - Built-in exception classes
 
-### Templates and File Handling
-- Function templates
-- Class templates
+### File Handling
+- Function
+- Class 
 - C++ I/O streams
 - File streams
 - Text file handling
