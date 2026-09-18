@@ -133,29 +133,56 @@ C++ development environment such as:
 ---
 ## Laboratory Programs
 
-The laboratory programs will be organized according to the
-OOPS concepts covered in the course.
+The following programs have been implemented as part of the
+Object Oriented Programming using C++ laboratory.
 
-| No. | Program | Concept | Chapter |
-|---:|---|---|---|
-| 1 | To be added | To be added | Chapter 1 |
-| 2 | To be added | To be added | Chapter 2 |
-| 3 | To be added | To be added | Chapter 3 |
-| 4 | To be added | To be added | Chapter 4 |
-| 5 | To be added | To be added | Chapter 5 |
-| 6 | To be added | To be added | Chapter 6 |
+| No. | Program | Concept |
+|---:|---|---|
+| 01 | Basic Output Using cout | C++ program structure and output |
+| 02 | Addition of Two Numbers | Variables, input and arithmetic |
+| 03 | C++ Data Types | Basic data types and sizeof operator |
+| 04 | Rectangle Area | Variables and arithmetic operations |
+| 05 | Largest of Three Numbers | Conditional statements |
+| 06 | String Length | C-style strings |
+| 07 | String Palindrome | String manipulation |
+| 08 | Pass by Value | Parameter passing |
+| 09 | Pass by Reference | Reference parameters |
+| 10 | Pass by Pointer | Pointer parameters |
+| 11 | Basic Class and Object | Classes and objects |
+| 12 | Member Function Outside Class | Scope resolution operator |
+| 13 | Rectangle Area Using Class | Classes and member functions |
+| 14 | Time Addition Using Constructor | Parameterized constructor |
+| 15 | Complex Number Addition | Objects and constructors |
+| 16 | Default Constructor | Constructors |
+| 17 | Parameterized Constructor | Parameterized constructors |
+| 18 | Copy Constructor | Copy constructor |
+| 19 | Destructor Demonstration | Destructor |
+| 20 | Static Data Member | Static members |
+| 21 | Static Member Function | Static member functions |
+| 22 | Static Counter | Static data members |
+| 23 | Inline Member Function | Inline functions |
+| 24 | Friend Function | Friend functions |
+| 25 | Friend Class | Friend classes |
+| 26 | Passing Object as Function Argument | Objects as arguments |
+| 27 | Single Inheritance | Inheritance |
+| 28 | Multilevel Inheritance | Multilevel inheritance |
+| 29 | Multiple Inheritance | Multiple inheritance |
+| 30 | Hierarchical Inheritance | Hierarchical inheritance |
+| 31 | Hybrid Inheritance | Hybrid inheritance |
+| 32 | Access Specifiers in Inheritance | Access control |
+| 33 | Virtual Base Class | Virtual base class |
+| 34 | Inheriting Private Members | Private members and inheritance |
 
-> This section will be updated as laboratory programs are completed.
----
-
+> This table will be updated as additional laboratory exercises
+> are completed.
 ## Repository Updates
 
-This repository will be periodically updated with newly completed
-OOPS laboratory programs.
 
-Each update will maintain the same documentation and coding standards
-to keep the laboratory work organized and easy to understand.
+This repository is maintained throughout the semester.
 
+New programs and laboratory exercises will be added periodically
+as they are completed. Existing programs may also be updated to
+improve readability, documentation, and implementation.
 ---
 
 ## Author
