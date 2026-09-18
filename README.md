@@ -182,7 +182,7 @@ This repository is maintained throughout the semester.
 
 New programs and laboratory exercises will be added periodically
 as they are completed. Existing programs may also be updated to
-improve readability, documentation, and implementation.
+improve readability.
 ---
 
 ## Author
