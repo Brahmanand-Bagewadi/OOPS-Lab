@@ -40,3 +40,12 @@ int main()
 
     return 0;
 }
+
+/*
+    input:
+Enter the length of the rectangle: 5
+Enter the breadth of the rectangle: 4
+
+    output:
+Area of the rectangle = 20
+*/
