@@ -31,10 +31,5 @@ int main()
     return 0;
 }
 
-/* 
-Input
-Enter first number: 10
-Enter second number: 20
-
-Output
-Sum = 30  */
+/*
+Output: Welcome to Object Oriented Programming using C++!  */
